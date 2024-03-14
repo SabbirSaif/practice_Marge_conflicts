@@ -1,1 +1,4 @@
-
+My name is Elikson Rodriguez
+My favorite number is 61
+Intro to Programming is a fun class!
+This is for the practice merge conflicts assignment.
