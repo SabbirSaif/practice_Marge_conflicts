@@ -1,4 +1,2 @@
-Our name is Elikson Rodriguez and Sabbis Saif
-Our favorite numbers are 61 and 94
-Intro to Programming is a fun class!
-This is for the practice merge conflicts assignment.
+my name is nick
+my fav number is 3
